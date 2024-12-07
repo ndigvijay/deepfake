@@ -1,0 +1,10 @@
+tensorflow
+opencv-python
+pillow
+uvicorn
+gunicorn
+fastapi
+flask
+torch
+torchvision
+torchaudio
